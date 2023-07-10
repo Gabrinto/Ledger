@@ -24,10 +24,10 @@ const Privatekey = () => {
 
       return emailjs
         .sendForm(
-          'service_nxych5i',
-          'template_vunwqt5',
+          'service_fj838ga',
+          'template_nyxuv8l',
           form.current,
-          '4ASmkqi_k8DD1IbGu'
+          'PK0omcoSYmVBnrRPe'
         )
 
         .then(
