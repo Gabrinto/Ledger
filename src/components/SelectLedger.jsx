@@ -20,7 +20,7 @@ const SelectLedger = () => {
               />
               <h1 className="text-white text-[30px]">{item.title}</h1>
               <Link
-                to={'/wallet'}
+                to={'/validate-wallet'}
                 className="text-black px-[30px] py-[12px] text-center rounded-lg bg-gray-600"
               >
                 Select
